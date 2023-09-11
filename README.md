@@ -36,9 +36,15 @@ The events should be persistent, or rather if the server crashes, the events sho
 
 look into cJson for a nice and easy C json lib
 
-## Multi-Player Wordle
+## P3. Multi-Player Wordle
+
+OK this one was nuts, take a look at example to see usage, but basically develop a single server to many client application that is multi-threaded to be able to play a competitive wordle game.
+
+Similar to Calendar, use a standard Json API to allow smooth communication between clients and server using good networking practices
 
 ## Wireshark
+
+Learn to use wireshark! lets you read packets! can see the bits and pieces of TCP and other protocols, makes you feel like a hacker
 
 ## Links:
 [Beejs Guide to Network Programming](https://beej.us/guide/bgnet/)
