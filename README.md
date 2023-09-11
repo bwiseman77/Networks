@@ -12,5 +12,7 @@ Repo for network projects
 
 ## Links:
 [Beejs Guide to Network Programming](https://beej.us/guide/bgnet/)
+
 [Linux Networking](https://tldp.org/LDP/intro-linux/html/chap_10.html)
+
 [Textbook](https://book.systemsapproach.org/foundation/problem.html)
