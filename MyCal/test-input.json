@@ -1,0 +1,34 @@
+[
+{
+	"command" : "add", 
+	"arguments" : ["date", "050222", "time", "0600", "duration", "60", "name", "Final Exam"]
+},
+{
+	"command" : "get",
+	"arguments" : ["0"]
+},
+{
+	"command" : "add",
+	"arguments" : ["date", "050622", "time", "1200", "duration", "120", "name", "drive home"]
+},
+{
+	"command" : "getrange",
+	"arguments" : ["050222", "050622"]
+},
+{
+	"command" : "update",
+	"arguments" : ["0", "date", "050322"]
+},
+{
+	"command" : "get",
+	"arguments" : ["0"]
+}, 
+{
+	"command" : "remove",
+	"arguments" : ["0"]
+},
+{
+	"command" : "get",
+	"arguments" : ["0"]
+}
+]

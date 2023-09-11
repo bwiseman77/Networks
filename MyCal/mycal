@@ -1,0 +1,4 @@
+#!/bin/sh
+# Bash script to run client.py
+
+python3 src/Client/client.py "$@"
